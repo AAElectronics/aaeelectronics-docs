@@ -258,7 +258,7 @@ It uses the following pins:
 
 ### WLED
 
-Wled for YULC is a manually compiled build, based on the **v0.15.0-b5 "Kosen"**. It features 4 usermods: [Audio Reactive](https://kno.wled.ge/advanced/audio-reactive/), [Internal Temperature v2](https://github.com/Aircoookie/WLED/tree/main/usermods/Internal_Temperature_v2), [MultiRelay](https://mm.kno.wled.ge/usermods/MultiRelay/) and one I created for myself to use the connected strip as a timer bar.
+Wled for YULC is a manually compiled build, based on the **v0.15.3 "Kosen"**. It features 4 usermods: [Audio Reactive](https://kno.wled.ge/advanced/audio-reactive/), [Internal Temperature v2](https://github.com/Aircoookie/WLED/tree/main/usermods/Internal_Temperature_v2), [MultiRelay](https://mm.kno.wled.ge/usermods/MultiRelay/) and one I created for myself to use the connected strip as a timer bar.
 
 ![](/assets/yulc/recap_usermod.jpg){width=3in fig-align="center"}
 

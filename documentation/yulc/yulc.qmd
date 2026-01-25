@@ -431,7 +431,8 @@ Optionally, if you use Home Assistant, the ESPHome dashboard will be able to ado
 
 **Software**
 
-- [WLED bin](https://cdn.shopify.com/s/files/1/0852/2819/2092/files/WLED_b7_firmware.bin?v=1731506097)
+- [WLED 0.15.3 bin](https://cdn.shopify.com/s/files/1/0852/2819/2092/files/firmware.bin?v=1769332478)
+- [WLED 0.15.0 b7 bin](https://cdn.shopify.com/s/files/1/0852/2819/2092/files/WLED_b7_firmware.bin?v=1731506097)
 - [ESPHome bin](https://cdn.shopify.com/s/files/1/0852/2819/2092/files/yulc_esphome.bin?v=1731506301)
 
 
